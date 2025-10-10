@@ -1,7 +1,7 @@
 # GRTT-Strong-Lensing-CATS
 Code that created the Plots and data for Strong lensing using CATS data for the paper https://doi.org/10.5281/zenodo.17178819
 
-'FITS' Files referred to are downloadable here (3 files per cluster Gamma, Kappa, psi):
+'FITS' Files referred to in the colab code are downloadable here (3 files per cluster Gamma, Kappa, psi):
 
 https://archive.stsci.edu/pub/hlsp/frontier/abell2744/models/cats/v4.1/ 
 
