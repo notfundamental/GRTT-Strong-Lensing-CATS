@@ -14,3 +14,5 @@ https://archive.stsci.edu/pub/hlsp/frontier/macs0416/models/cats/v4.1/
 https://archive.stsci.edu/pub/hlsp/frontier/macs0717/models/cats/v4.1/
 
 https://archive.stsci.edu/pub/hlsp/frontier/macs1149/models/cats/v4.1/
+
+Later models expanded to GLAFIC, and SHARON also available in the same locations.
